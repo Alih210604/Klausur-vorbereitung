@@ -5,6 +5,6 @@ public class Hello {
         System.out.println("bla!");
     }
     public void bye(){
-        System.out.printf("Ciao");
+        System.out.printf("Allah ma3ak");
     }
 }
