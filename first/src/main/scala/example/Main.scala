@@ -1,4 +1,4 @@
 package example
 
 @main def main(args: String*): Unit =
-  println(s"Hello ali")
+  println(s"myprog.Hello ali")
