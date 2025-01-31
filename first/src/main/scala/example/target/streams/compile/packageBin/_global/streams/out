@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/example_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/classes/example/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/classes/example/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/classes/example/main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/classes/example/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ali/Klausur-vorbereitung/first/src/main/scala/example/target/scala-3.3.4/classes/example/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
