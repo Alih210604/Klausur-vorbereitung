@@ -4,5 +4,7 @@ public class Hello {
     public void hello(){
         System.out.println("myprog.Hello");
     }
-    public void bye(){}
+    public void bye(){
+        System.out.printf("bye");
+    }
 }
